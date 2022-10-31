@@ -1,0 +1,8 @@
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\bin\Debug\Test_Task_Saber_Interactive.exe.config
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\bin\Debug\Test_Task_Saber_Interactive.exe
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\bin\Debug\Test_Task_Saber_Interactive.pdb
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\obj\Debug\Test_Task_Saber_Interactive.csproj.AssemblyReference.cache
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\obj\Debug\Test_Task_Saber_Interactive.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\obj\Debug\Test_Task_Saber_Interactive.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\obj\Debug\Test_Task_Saber_Interactive.exe
+C:\Users\Artem\Documents\GitHub\Test_Task_Saber_Interactive\Test_Task_Saber_Interactive\obj\Debug\Test_Task_Saber_Interactive.pdb
